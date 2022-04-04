@@ -1,0 +1,51 @@
+
+/* padding icon wrt the adiacent label */
+i {
+    padding-right: 10px;
+}
+
+.profile-imagee {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 1em;
+    margin-top: 0.5em;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.descript-text {
+    font-style: italic;
+}
+
+.card-container {
+    margin-top: 10px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    align-items: center;
+    z-index: 999;
+}
+
+.feedback-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.feedback-username {
+    color: #0d6efd;
+}
+
+.contact-button {
+    height: 45px;
+    border-radius: 0;
+}
+
+.check-icon {
+   margin-right: 3px; 
+}

@@ -1,0 +1,26 @@
+.Question-logo {
+    height: 35px;
+    width: 35px;
+    padding-right: 10px;
+}
+
+.Question-logo:active {
+  transform: rotateX(180deg);
+  width: 40px;
+  height: 40px;
+  opacity: 0.5;
+}
+
+.Form-Label {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Image-Modal {
+  height: 70%;
+  width: 70%;
+}
+
+.toggleBut:hover {
+  background-color: white;
+  color: #0275d8;
+}

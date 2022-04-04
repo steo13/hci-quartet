@@ -1,0 +1,9 @@
+.remove-button:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.success-button:focus {
+    outline: none;
+    box-shadow: none;
+}

@@ -1,0 +1,31 @@
+/* padding icon wrt the adiacent label */
+i {
+    padding-right: 10px;
+}
+
+.go-forward {
+    font-size: 1.1rem;
+}
+
+.card-container {
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+}
+
+.profile-image {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 3em;
+}
+
+.wave {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+    background-color: #f0ad4e;
+	height: 50%;
+    z-index: -1;
+    filter: blur(40px);
+}

@@ -1,0 +1,9 @@
+.toggleBut:hover {
+    background-color: white;
+    color: #0275d8;
+}
+
+.check-icon {
+  margin-right: 3px;
+}
+
